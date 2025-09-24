@@ -2,7 +2,7 @@
 
 Oi, meu nome é Felipe.
 
-Este projeto de "Amigo Secreto" foi desenvolvido como parte do **Alura Challenger**, um desafio para aprimorar habilidades em lógica de programação e desenvolvimento back-end. A aplicação permite que os usuários adicionem participantes e realizem um sorteio de forma justa e aleatória.
+Este projeto de "Amigo Secreto" foi desenvolvido como parte do **Alura Challenge**, um desafio para aprimorar habilidades em lógica de programação e desenvolvimento back-end. A aplicação permite que os usuários adicionem participantes e realizem um sorteio de forma justa e aleatória.
 
 ## ✨ Funcionalidades
 
@@ -42,5 +42,5 @@ Para executar o projeto, não é necessário nenhum servidor ou instalação com
 ---
 
 <p align="center">
-  Desenvolvido para o <strong>Alura Challenger</strong>.
+  Desafio desenvolvido para o <strong>Alura Challenge</strong>.
 </p>
